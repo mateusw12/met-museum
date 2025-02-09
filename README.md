@@ -4,8 +4,6 @@ Projeto experimental desenvolvido para estudo e prática de Next.js 13+, integra
 
 ![Resultado final do projeto](./public/met-museum.gif)
 
-<h4 align="center"><a target="_blank" href="https://met-museum.giovanaraphaelli.tech">Clique para visitar o projeto</a></h4>
-
 ---
 
 ## ✨ Funcionalidades

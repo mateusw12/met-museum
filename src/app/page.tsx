@@ -21,7 +21,7 @@ export default function Home() {
           href="https://giovanaraphaelli.tech/"
           className="hover:text-primary transition-colors duration-300 font-semibold"
         >
-          @giovanaraphaelli
+          @mateuswalz
         </a>
       </footer>
     </div>
