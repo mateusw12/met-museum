@@ -18,7 +18,7 @@ export default function Home() {
       <footer className="text-gray-500 font-sans text-xs lg:text-base">
         developed by{' '}
         <a
-          href="https://giovanaraphaelli.tech/"
+          href="https://mateus-walz.vercel.app/"
           className="hover:text-primary transition-colors duration-300 font-semibold"
         >
           @mateuswalz
